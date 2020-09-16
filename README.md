@@ -8,7 +8,7 @@
     <tr>
         <th>프로젝트 명 </th>
         <th>Dodori-center</th>
-        <th colspan="3">개발기간</th>
+        <th colspan="2">개발기간</th>
         <th>2020-06-03 ~ 2020-06-17</th>
     </tr>
     <tr>
