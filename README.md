@@ -21,7 +21,7 @@
     </tr>
       <tr>
         <th>프로젝트 개요</th>
-        <th>티켓 사이트</th>
+        <th>SW 교육센터 운영 프로그램</th>
         <th>개발환경&nbsp;</th>
         <th>Windows10</th>
     </tr>
