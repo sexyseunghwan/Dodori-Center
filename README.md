@@ -3,39 +3,51 @@
 ![main](https://user-images.githubusercontent.com/67256749/85921382-fc058400-b8b6-11ea-92d0-44d5531946dd.png)
 ### :four_leaf_clover:프로젝트
 
+-----
 <table>
-  <tr>
-    <th>프로젝트명</th>
-    <th>도돌이 센터</th>
-    <th>개발 기간</th>
-    <th>2020-06-03 ~ 2020-06-17</th>
-  </tr>
-  <tr>
-    <th>프로젝트 개요</th>
-    <th>SW 교육센터 운영 프로그램</th>
-    <th>개발 인원</th>
-    <th><a href="https://github.com/harim0235">강혜림</a>, <a href="https://github.com/sexyseunghwan">신승환</a>, <a href="https://github.com/suji-l">이수지</a>, <a href="https://github.com/joyoonkyung">조윤경</a>, <a href="https://github.com/wnsvy4231">홍준표</a>, <a href="https://www.naver.com/">홍혜림</ㅁ></th>
-  </tr>
-  <tr>
-    <th rowspan="6">프로젝트 기술</th>
-    <th colspan="5">Oracle</th>
- </tr>   
-  <tr>
-    <th colspan="5">Java</th>
-  </tr>  
-  <tr>
-    <th colspan="5">SQL</th>
-  </tr>  
-  <tr>
-    <th colspan="5">exERD</th>
-  </tr>  
-  <tr>
-    <th colspan="5">Eclipse</th>
-  </tr>  
-  <tr>
-    <th colspan="5">Github</th>
-  </tr>
+    <tr>
+        <th>프로젝트 명 </th>
+        <th>Dodori-center</th>
+        <th>개발기간</th>
+        <th>2020-06-03 ~ 2020-06-17</th>
+    </tr>
+    <tr>
+        <th>프로젝트 성격</th>
+        <th>세미 프로젝트</th>
+        <th>개발인원</th>
+        <th>팀 / 6명<br>
+          (<a href="https://github.com/harim0235">강혜림</a> ｜ <a href="https://github.com/sexyseunghwan">신승환</a> ｜ <a href="https://github.com/suji-l">이수지</a> ｜ <a href="https://github.com/joyoonkyung">조윤경</a> ｜ <a href="https://github.com/wnsvy4231">홍준표</a> ｜ <a href="https://www.naver.com/">홍혜림</a>)
+      </th>
+    </tr>
+      <tr>
+        <th>프로젝트 개요</th>
+        <th>티켓 사이트</th>
+        <th>개발환경&nbsp;</th>
+        <th>Windows10</th>
+    </tr>
+    <tr>
+        <th colspan="5">사용 도구</th>
+    </tr>  
+    <tr>
+        <th>개발언어</th>
+        <th colspan="3">Java(JDK 1.8), Oracle SQL</th>
+    </tr>
+    <tr>
+        <th>형상관리</th>
+        <th colspan="3">Github, Git , Source Tree</th>
+    </tr>
+    <tr>
+        <th>개발도구</th>
+        <th colspan="3">Eclipse JEE, Oracle SQL Developer, eXERD</th>
+    </tr>
+    <tr>
+        <th>사용기술</th>
+        <th colspan="3">JDBC</th>
+    </tr>
 </table>
+
+
+-----
 
 ### :four_leaf_clover: 구현화면
 <div><img src="https://user-images.githubusercontent.com/65217717/86288660-39ef0900-bc25-11ea-92f1-5ac23f755168.gif"></div>
