@@ -26,7 +26,7 @@
         <th>Windows10</th>
     </tr>
     <tr>
-        <th colspan="5">사용 도구</th>
+        <th colspan="6">사용 도구</th>
     </tr>  
     <tr>
         <th>개발언어</th>
