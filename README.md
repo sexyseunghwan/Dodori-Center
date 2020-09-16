@@ -6,22 +6,22 @@
 -----
 <table>
     <tr>
-        <th>프로젝트 명 </th>
-        <th>At-Ticket</th>
+        <th colspan="2">프로젝트 명 </th>
+        <th>Dodori-center</th>
         <th>개발기간</th>
-        <th>2020.07.17. ~ 2020.08.28.</th>
+        <th>2020-06-03 ~ 2020-06-17</th>
     </tr>
     <tr>
         <th>프로젝트 성격</th>
         <th>세미 프로젝트</th>
         <th>개발인원</th>
         <th>팀 / 6명<br>
-          (<a href="https://github.com/moods2">윤대웅｜<a href="https://github.com/prohwww">전혜원</a>｜<a href="https://github.com/ithansiyeon">한시연</a>｜<a href="https://github.com/JeongWoo-Jang">장정우</a>｜<a href="https://github.com/Chun0903">천정주</a>｜<a href="https://github.com/sexyseunghwan">신승환</a>)
+          (<a href="https://github.com/harim0235">강혜림</a> ｜ <a href="https://github.com/sexyseunghwan">신승환</a> ｜ <a href="https://github.com/suji-l">이수지</a> ｜ <a href="https://github.com/joyoonkyung">조윤경</a> ｜ <a href="https://github.com/wnsvy4231">홍준표</a> ｜ <a href="https://www.naver.com/">홍혜림</a>)
       </th>
     </tr>
       <tr>
         <th>프로젝트 개요</th>
-        <th>티켓 사이트</th>
+        <th>SW 교육센터 운영 프로그램</th>
         <th>개발환경&nbsp;</th>
         <th>Windows10</th>
     </tr>
@@ -30,7 +30,7 @@
     </tr>  
     <tr>
         <th>개발언어</th>
-        <th colspan="3">Java(JDK 1.8), Oracle SQL, HTML5, JavaScript, CSS3, jQuery</th>
+        <th colspan="3">Java(JDK 1.8), Oracle SQL</th>
     </tr>
     <tr>
         <th>형상관리</th>
@@ -38,11 +38,11 @@
     </tr>
     <tr>
         <th>개발도구</th>
-        <th colspan="3">Eclipse JEE, Visual Studio Code, Oracle SQL Developer, eXERD, Aws</th>
+        <th colspan="3">Eclipse JEE, Oracle SQL Developer, eXERD</th>
     </tr>
     <tr>
         <th>사용기술</th>
-        <th colspan="3">JSP, Servlet, jQuery, Bootstrap, Ajax</th>
+        <th colspan="3">JDBC</th>
     </tr>
 </table>
 
