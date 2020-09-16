@@ -6,15 +6,15 @@
 -----
 <table>
     <tr>
-        <th colspan="2">프로젝트 명 </th>
+        <th>프로젝트 명 </th>
         <th>Dodori-center</th>
-        <th>개발기간</th>
+        <th colspan="2">개발기간</th>
         <th>2020-06-03 ~ 2020-06-17</th>
     </tr>
     <tr>
         <th>프로젝트 성격</th>
         <th>세미 프로젝트</th>
-        <th>개발인원</th>
+        <th colspan="2">개발인원</th>
         <th>팀 / 6명<br>
           (<a href="https://github.com/harim0235">강혜림</a> ｜ <a href="https://github.com/sexyseunghwan">신승환</a> ｜ <a href="https://github.com/suji-l">이수지</a> ｜ <a href="https://github.com/joyoonkyung">조윤경</a> ｜ <a href="https://github.com/wnsvy4231">홍준표</a> ｜ <a href="https://www.naver.com/">홍혜림</a>)
       </th>
@@ -22,7 +22,7 @@
       <tr>
         <th>프로젝트 개요</th>
         <th>SW 교육센터 운영 프로그램</th>
-        <th>개발환경&nbsp;</th>
+        <th colspan="2">개발환경&nbsp;</th>
         <th>Windows10</th>
     </tr>
     <tr>
